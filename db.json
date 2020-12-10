@@ -6,7 +6,7 @@
       "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
       "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
       "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/02/John_Wall_2013.jpg",
-      "friends": [2,3]
+      "friends": [2, 3]
     },
     {
       "userId": 2,
@@ -31,6 +31,6 @@
       "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
       "profilePic": "https://sportshub.cbsistatic.com/i/r/2019/01/27/367ca5d9-a85c-41a9-b0d4-c31a2319486a/thumbnail/1200x675/6a87e24101db3136136e63c6bb24e9e2/kevin-durant-warriors.jpg",
       "friends": []
-    },
+    }
   ]
 }
