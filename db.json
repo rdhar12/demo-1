@@ -5,28 +5,48 @@
       "name": "John Wall",
       "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
       "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-      "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/02/John_Wall_2013.jpg"
+      "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/02/John_Wall_2013.jpg",
+      "friends": [2,3]
     },
     {
       "userId": 2,
       "name": "Rusell Westbrook",
       "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
       "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-      "profilePic": "https://cdn.vox-cdn.com/thumbor/kAl5qmTDKchfYpIfgC-yp3-eKOs=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19372864/westbroook.jpg"
+      "profilePic": "https://cdn.vox-cdn.com/thumbor/kAl5qmTDKchfYpIfgC-yp3-eKOs=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19372864/westbroook.jpg",
+      "friends": [1]
     },
     {
       "userId": 3,
       "name": "Lebron James",
       "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
       "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-      "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/a7/LeBron_James_Lakers.jpg"
+      "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/a7/LeBron_James_Lakers.jpg",
+      "friends": [1]
     },
     {
       "userId": 4,
       "name": "Kevin Durant",
       "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
       "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-      "profilePic": "https://sportshub.cbsistatic.com/i/r/2019/01/27/367ca5d9-a85c-41a9-b0d4-c31a2319486a/thumbnail/1200x675/6a87e24101db3136136e63c6bb24e9e2/kevin-durant-warriors.jpg"
+      "profilePic": "https://sportshub.cbsistatic.com/i/r/2019/01/27/367ca5d9-a85c-41a9-b0d4-c31a2319486a/thumbnail/1200x675/6a87e24101db3136136e63c6bb24e9e2/kevin-durant-warriors.jpg",
+      "friends": []
+    }
+      {
+      "userId": 5,
+      "name": "Shaquile O'Neal",
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "profilePic": "https://images.squarespace-cdn.com/content/v1/599a5efdf14aa1fb27834a8d/1511862745547-J9EF736UGVDTK4CUXJH4/ke17ZwdGBToddI8pDm48kLl76CqolYQpYCK1tQUkpCVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzq3NVIIp6jYqnwxy-xF8aVXRy_AJKc5toB5m-gAPM7p7ivWsEabuWKGrHqsHOeNt4/lakers.jpg",
+      "friends": [2, 6]
+    }
+  {
+      "userId": 6,
+      "name": "Michael Jordan",
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "profilePic": "https://sportshub.cbsistatic.com/i/r/2017/02/14/bd8add9a-9e63-404d-8d90-90f81c8eef1e/thumbnail/1200x675/4c8da925f2fdfdb68b3305fff1d1cb13/michael-jordan-12-jersey.jpg",
+      "friends": [6, 1, 3]
     }
   ]
 }
